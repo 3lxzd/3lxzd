@@ -24,4 +24,4 @@ My primary work includes developing scripts for the FiveM platform and creating 
 
 ## Contact
 
-Discord: hootbugga
+Discord: midw5st
