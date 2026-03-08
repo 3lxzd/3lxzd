@@ -6,5 +6,5 @@ My primary work includes developing scripts for the FiveM platform and creating 
 ## Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,rust,cs,ts,js,go,cpp,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=ts,go,cpp,dart,flutter" />
 </p>
